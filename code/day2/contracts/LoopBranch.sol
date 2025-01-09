@@ -2,8 +2,10 @@
 pragma solidity ^0.8.0;
 
 /*
- * if
- * for, whlie, do-while
+ if
+ for,
+ whlie,
+ do-while
  */
 contract LoopBranch {
     uint256 public number;
